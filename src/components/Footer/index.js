@@ -10,7 +10,7 @@ function Footer() {
           rel="noopener noreferrer"
         >
           <img
-            src={require("../../assets/logos")}
+            src={require("../../assets/logos/GitHub-Logo.png")}
             alt="Github"
             className="logo"
           ></img>
