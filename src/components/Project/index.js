@@ -1,16 +1,18 @@
-import React, { useState } from "react";
+import React from "react";
 import Card from "react-bootstrap/Card";
 
 function Project(props) {
   // This imports the information for the current project sent down.
-  const currentProject = useState(props)[0].projects;
+  const { name, description, image, technologies, deployed, github } =
+    props.project;
 
-  const name = currentProject.name;
-  const description = currentProject.description;
-  const image = currentProject.image;
-  const techs = currentProject.technologies;
-  const appLink = currentProject.deployed;
-  const gitLink = currentProject.github;
+  // const name = currentProject.name;
+  // console.log(currentProject);
+  // const description = currentProject.description;
+  // const image = currentProject.image;
+  const techs = technologies;
+  const appLink = deployed;
+  const gitLink = github;
 
   // This function parses the information from the array and creates a list.
   function getTechs(techArray) {

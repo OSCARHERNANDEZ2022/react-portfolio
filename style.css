@@ -1,0 +1,60 @@
+body {
+  background-color: rgb(13, 58, 73);
+}
+h1 {
+  color: rgb(18, 58, 95);
+  margin-left: 5px;
+}
+nav li {
+  display: inline-block;
+  box-sizing: border-box;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #888;
+  text-align: center; /* step 6 */
+}
+body {
+  font-family: Roboto, sans-serif;
+}
+h1 {
+  font-size: 25px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.hero-image {
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+a[target] {
+  background-color: yellow;
+}
+body {
+  background-image: url("bg_img.jpg");
+  background-color: transparent;
+}
+.form {
+  display: inline;
+}
+.img_profil {
+  height: 150px;
+  width: 150px;
+  margin-left: 45%;
+}
+
+footer {
+  background: #303030;
+  color: var(--clear-accent);
+  text-align: center;
+  padding: 2.5em 0;
+}
