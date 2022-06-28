@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b62e1305.css",
+    "main.js": "/react-portfolio/static/js/main.609c489a.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/how to submit HW.png": "/react-portfolio/static/media/how to submit HW.893798fb0eb612d08ce3.png",
+    "static/media/code-refactor.png": "/react-portfolio/static/media/code-refactor.44c88ecee80862055aaa.png",
+    "static/media/image 6.jpg": "/react-portfolio/static/media/image 6.bd68891a3ba281d68eb6.jpg",
+    "static/media/social network api.png": "/react-portfolio/static/media/social network api.016ce2d8bf9d4dd61d18.png",
+    "static/media/Oscars resume.pdf": "/react-portfolio/static/media/Oscars resume.e90dbe4d81e597a11cda.pdf",
+    "static/media/web-dev-social.png": "/react-portfolio/static/media/web-dev-social.2cbb9768151d5e65c959.png",
+    "static/media/portfolio picture.jpg": "/react-portfolio/static/media/portfolio picture.bf21ff77225eb3a45f64.jpg",
+    "static/media/upcoming concerts.png": "/react-portfolio/static/media/upcoming concerts.b0c65c728ce7084b5fe4.png",
+    "static/media/budget-tracker.png": "/react-portfolio/static/media/budget-tracker.828fe2b95d4a1e5ea40d.png",
+    "static/media/image 5.jpg": "/react-portfolio/static/media/image 5.9d506ffc655d0cef2ae9.jpg",
+    "static/media/image 1.jpeg": "/react-portfolio/static/media/image 1.2e2a39b775d0b58163a9.jpeg",
+    "static/media/weather dashboard.png": "/react-portfolio/static/media/weather dashboard.018d9b46ab59608b7999.png",
+    "static/media/image 7.jpg": "/react-portfolio/static/media/image 7.b6b435e9493efe8ff5c6.jpg",
+    "static/media/GitHub-Logo.png": "/react-portfolio/static/media/GitHub-Logo.1b136cd11de4e9b17d88.png",
+    "static/media/image 2.jpg": "/react-portfolio/static/media/image 2.100315abefd5454de8cf.jpg",
+    "static/media/image 4.jpg": "/react-portfolio/static/media/image 4.17b36a3fd30c8db1f001.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/portfolio": "/react-portfolio/static/media/portfolio.31d6cfe0d16ae931b73c",
+    "main.b62e1305.css.map": "/react-portfolio/static/css/main.b62e1305.css.map",
+    "main.609c489a.js.map": "/react-portfolio/static/js/main.609c489a.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62e1305.css",
+    "static/js/main.609c489a.js"
+  ]
+}
