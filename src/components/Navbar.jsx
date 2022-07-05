@@ -37,8 +37,8 @@ const Navbar = () => {
             : " absolute top-0 left-0 w-full h-screen bg-slate-400 flex flex-col justify-center items-center"
         }
       >
-        <li className="py-6 text-4xl">Home</li>
-        <li className="py-6 text-4xl">About</li>
+        <li className="py-6 text-4l">Home</li>
+        <li className="py-6 text-4xl">About Me</li>
         <li className="py-6 text-4xl">Portfolio</li>
         <li className="py-6 text-4xl">Contact</li>
         <li className="py-6 text-4xl">Resume</li>
